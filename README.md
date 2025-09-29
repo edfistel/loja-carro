@@ -8,8 +8,6 @@ Funcionalidades
 
 - Busca e Filtros: Os compradores podem buscar carros de acordo com diversos critérios, como marca, preço, ano, tipo de combustível e muito mais.
 
-- Cadastro de Usuários: Vendedores e compradores podem criar suas contas para realizar negociações de forma segura.
+- Cadastro de Usuários: Usuário administrador para gerenciar os anúncios.
 
 - Página de Detalhes do Carro: Exibe informações detalhadas sobre os veículos disponíveis, com fotos e características completas.
-
-- Chat Integrado: Permite comunicação direta entre comprador e vendedor para tirar dúvidas sobre o veículo.
