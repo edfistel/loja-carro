@@ -1,3 +1,15 @@
 # Loja de Carros
-Descrição
+
 Esse projeto tem o propósito de estimular a compra e venda de automóveis, conectando compradores e vendedores de maneira prática e eficiente. A plataforma permite que os usuários cadastrem veículos à venda, explorem carros disponíveis e realizem transações de forma segura e simplificada.
+
+Funcionalidades
+
+- Cadastro de Veículos: Permite que os vendedores cadastrem seus veículos, incluindo informações como modelo, marca, ano, preço e fotos.
+
+- Busca e Filtros: Os compradores podem buscar carros de acordo com diversos critérios, como marca, preço, ano, tipo de combustível e muito mais.
+
+- Cadastro de Usuários: Vendedores e compradores podem criar suas contas para realizar negociações de forma segura.
+
+- Página de Detalhes do Carro: Exibe informações detalhadas sobre os veículos disponíveis, com fotos e características completas.
+
+- Chat Integrado: Permite comunicação direta entre comprador e vendedor para tirar dúvidas sobre o veículo.
